@@ -1,6 +1,6 @@
 BobBot
 Per farlo partire, avviare una PowerShell o riga di comando in questa cartella e usare:
--jar bot.jar -c config.yml -d data
+java -jar bot.jar -c config.yml -d data
 
 -jar specifica il nome del .jar del bot
 -c è il file di config con il token per puntare al bot giusto (fornito da BotFather)
